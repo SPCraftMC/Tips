@@ -1,0 +1,6 @@
+# 多少秒广播一次
+time: 60
+
+prefix: "&l&aSPCraftMC &r&l>>> &r&b"
+messages:
+  - ""

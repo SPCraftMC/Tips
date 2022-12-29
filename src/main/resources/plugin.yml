@@ -1,0 +1,9 @@
+name: Tips
+version: '${version}'
+main: moe.xmcn.tips.tips.Tips
+api-version: 1.19
+authors: [ XiaMoHuaHuo_CN ]
+description: Tips for server.
+commands:
+  tips:
+    description: Tips
